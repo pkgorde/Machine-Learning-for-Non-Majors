@@ -33,12 +33,12 @@ This notebook discusses embedding models and Long Short-Term Memory (LSTM) netwo
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/teaching-content.git
+git clone https://github.com/pkgorde/Machine-Learning-for-Non-Majors.git
 ```
 
 Navigate to the repository directory:
 ```
-cd teaching-content
+cd Machine-Learning-for-Non-Majors
 ```
 Open the desired notebook in Jupyter:
 ```
